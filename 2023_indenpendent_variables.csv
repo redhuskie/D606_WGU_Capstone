@@ -1,0 +1,31 @@
+column,question,variable_label,type,convert_id,variable_type
+q27,"During the past 12 months, did you ever seriously consider attempting suicide?",considered suicide,binary,,dependent
+q43,38_5_Drinks_30_Days_Boy_Girl,current binge drinking,multi-select,2,independent
+q1,how old are you?,how old are you,multi-select,,demographic
+q2,what is your sex?,what is your sex,binary,,demographic
+q3,in what grade are you,in what grade are you,multi-select,,demographic
+raceeth,what is your race?,what is your race,multi-select,,demographic
+q12,"During the past 30 days, on how many days did you carry a weapon such as a gun, knife, or club on school property?",weapon carrying at school,multi-select,2,independent
+q13,"During the past 12 months, on how many days did you carry a gun?",gun carrying,multi-select,2,independent
+q14,"During the past 30 days, on how many days did you not go to school because you felt you would be unsafe at school or on your way to or from school?",safety concerns at school,multi-select,2,independent
+q15,"During the past 12 months, how many times has someone threatened or injured you with a weapon such as a gun, knife, or club on school property?",threatened at school,multi-select,2,independent
+q16,"During the past 12 months, how many times were you in a physical fight?",pyhsical Fighting,multi-select,2,independent
+q18,"have you ever seen someone get physically attacked, beaten, stabbed, or shot in your neighborhood?",saw physical violence in neighborhood,binary,,independent
+q19,have you ever been physically forced to have sexual intercourse when you did not want to?,forced sexual intercourse,binary,,independent
+q22,"During the past 12 months, how many times did someone you were dating or going out with physically hurt you on purpose?",physical dating violence,multi-select,2,independent
+q23,"During your life, how often have you felt that you were treated badly or unfairly in school because of your race or ethnicity?",treated badly because of race or ethnicity,multi-select,2,independent
+q24,"during the past 12 months, have you ever been bullied on school property?",bullying at school,binary,,independent
+q25,"during the past 12 months, have you ever been electronically bullied?",electronic bullying,binary,,independent
+q26,"during the past 12 months, did you ever feel so sad or hopeless almost every day for two weeks or more in a row that you stopped doing some usual activities?",sad or hopeless,binary,,independent
+q28,"During the past 12 months, did you make a plan about how you would attempt suicide?",made a suicide plan,binary,,independent
+q29,"During the past 12 months, how many times did you actually attempt suicide?",attempted suicide,multi-select,2,independent
+q31,"Have you ever smoked a cigarette, even one or two puffs?",ever cigarette use,binary,,independent
+q35,Have you ever used an electronic vapor product?,electronic vapor product use,binary,,independent
+q46,"During your life, how many times have you used marijuana?",ever marijuana use,multi-select,2,independent
+q49,"During your life, how many times have you taken prescription pain medicine without a doctor's prescription or differently than how a doctor told you to use it?",ever prescription pain medicine use,multi-select,2,independent
+q50,"During your life, how many times have you used any form of cocaine, including powder, crack, or freebase?",ever use cocaine,multi-select,2,independent
+q51,"During your life, how many times have you sniffed glue, breathed the contents of aerosol spray cans, or inhaled any paints or sprays to get high?",ever inhalant use,multi-select,2,independent
+q52,"During your life, how many times have you used heroin (also called smack, junk, or China White)?",ever heroin use,multi-select,2,independent
+q53,"During your life, how many times have you used methamphetamines (also called speed, crystal meth, crank, ice, or meth)?",ever methamphetamine use,multi-select,2,independent
+q54,"During your life, how many times have you used ecstasy (also called MDMA or Molly)?",ever ecstacy use,multi-select,2,independent
+q56,Have you ever had sexual intercourse?,ever sexual intercourse,binary,,independent
